@@ -52,5 +52,8 @@
 ## Посилання
 
 [Що таке віткріті дані](http://most.ks.ua/news/url/vidkriti_dani_angl_open_data)
+
 [Віткріті дані, Wikipedia](https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D1%96_%D0%B4%D0%B0%D0%BD%D1%96)
+
 [Єдиний державний веб-портал відкритих даних](https://data.gov.ua/)
+
