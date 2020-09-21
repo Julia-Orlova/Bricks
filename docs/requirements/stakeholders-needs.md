@@ -33,8 +33,8 @@
 ## Характеристика ділових процесів
      
 ***ID:***  
-Type: Business Case Package: #001 Scenario: #001 Version_1.1
-BC.001.001.v1.1
+Type: Business Case Package: #001 Scenario: #001 Version_1.1  
+**BC.001.001.v1.1**
 
 ***НАЗВА:***  
 Дізнатися тенденції вступу студентів будь-якого ВУНЗ України на роботу.
