@@ -33,7 +33,7 @@
 ## Характеристика ділових процесів
      
 ***ID:***  
-Type: Business Case Package: #001 Scenario: #001 Version_1 
+Type: Business Case Package: #001 Scenario: #001 Version_1  
 **BC.001.001.v1**
 
 ***НАЗВА:***  
