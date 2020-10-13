@@ -1,6 +1,7 @@
 @startuml
 
     left header
+
         <font color=000 size=18><b>Package:</b> UCD
         
         <font color=000 size=16><b>Ідентифікатор:</b> UC.user.1
